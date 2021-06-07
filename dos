@@ -1,0 +1,12 @@
+Inicio 
+    var numero, contador=0
+    escribir "Ingrese un numero"
+    leer(numero)
+    mientras(numero>1)
+        numero--
+        contador++
+    finMientras
+    mostrar(La cantidad de numeros son "contador")
+
+Fin
+    
